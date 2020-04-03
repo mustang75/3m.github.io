@@ -346,6 +346,12 @@
   Шелковый шнурок черного цвета, с золотым замком 585 пробы.&amp;nbsp;  
   Вес изделия составляет 1,22 г.  
  &amp;nbsp; ]]></description>
+									                                                            <param name="Проба">585</param>
+																								<param name="Цвет металла">Желтый</param>
+                                                                                                <param name="Пол">Унисекс</param>                                
+                                                                                               <param name="Состояние">Новое</param>
+                                                                                                <param name="Длина">50.0</param>
+                                                                                                <param name="Страна производитель">Украина</param>
                 
                                 
             </offer>
@@ -368,6 +374,14 @@
                                 <description><![CDATA[  Каучуковый шнурок&amp;nbsp; черного цвета, с золотым замком 585 пробы.  
   Вес изделия составляет 1,22 г.  
  &amp;nbsp; ]]></description>
+									<param name="Вес">1,22</param>
+                                                                                                <param name="Проба">585</param>
+                                                                                                <param name="Цвет металла">Желтый</param>
+                                                                                                <param name="Пол">Унисекс</param>
+                                                                                                <param name="Размер кольца">50</param>
+                                                                                                <param name="Состояние">Новое</param>
+                                                                                                <param name="Длина">50.0</param>
+                                                                                                <param name="Страна производитель">Украина</param>
                 
                                 
             </offer>
@@ -390,6 +404,14 @@
                                 <description><![CDATA[  Шелковый шнурок&amp;nbsp; черного цвета, с золотым замком 585 пробы.  
   Вес изделия составляет 1,15 г.  
  &amp;nbsp; ]]></description>
+									<param name="Вес">1,15</param>
+                                                                                                <param name="Проба">585</param>
+                                                                                                <param name="Цвет металла">Желтый</param>
+                                                                                                <param name="Пол">Унисекс</param>
+                                                                                                <param name="Размер кольца">55</param>
+                                                                                                <param name="Состояние">Новое</param>
+                                                                                                <param name="Длина">55.0</param>
+                                                                                                <param name="Страна производитель">Украина</param>
                 
                                 
             </offer>
