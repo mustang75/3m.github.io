@@ -44,7 +44,32 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л13540 А.10585</vendorCode>
-                                <description><![CDATA[  Золотая подвеска&amp;nbsp; из белого золота 750 пробы.   &amp;nbsp;   Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  42  белый  4  5  0.84  багет     ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Золотая подвеска&nbsp; из белого золота 750 пробы.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>42</td>
+<td>белый</td>
+<td>4</td>
+<td>5</td>
+<td>0.84</td>
+<td>багет</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">1,98</param>
@@ -109,7 +134,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12765 А.А.9820</vendorCode>
-                                <description><![CDATA[  Подвеска выполнена из золота 585 пробы.    Золотая подвеска сделана в форме &amp;quot;ангелочка&amp;quot;.    Вставка жемчуженка.    Вес изделия составляет 1,06&amp;nbsp;г. ( вставка 0,01&amp;nbsp;г.).    Золотая цепочка в стоимость подвески не входит.   &amp;nbsp; ]]></description>
+                                <description><![CDATA[  Подвеска выполнена из золота 585 пробы.    Золотая подвеска сделана в форме &amp;quot;ангелочка&amp;quot;.    Вставка жемчуженка.    Вес изделия составляет 1,06&г. ( вставка 0,01г.).    Золотая цепочка в стоимость подвески не входит. ]]></description>
                 
                                                                                         <param name="Вес">1,06</param>
                                                                                                 <param name="Проба">585</param>
@@ -138,7 +163,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12776 А.9831</vendorCode>
-                                <description><![CDATA[  Крестик выполнен из золота 585 пробы.    Вес изделия составляет 2,21&amp;nbsp;г.&amp;nbsp;    Золотая цепочка в стоимость крестика не входит.   &amp;nbsp; ]]></description>
+                                <description><![CDATA[Крестик выполнен из золота 585 пробы. Вес изделия составляет 2,21&г. Золотая цепочка в стоимость крестика не входит.]]></description>
                 
                                                                                         <param name="Вес">2,21</param>
                                                                                                 <param name="Проба">585</param>
@@ -167,7 +192,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12752 А.9807</vendorCode>
-                                <description><![CDATA[  Серьги сделаны из золота 585 пробы.    Золотые серьги сделаны в форме колец.    Вес изделия составляет 1,21&amp;nbsp;г.    Для уточнения информации, обращайтесь за телефонами указанными в контактах.  ]]></description>
+                                <description><![CDATA[  Серьги сделаны из золота 585 пробы.    Золотые серьги сделаны в форме колец.    Вес изделия составляет 1,21г.    Для уточнения информации, обращайтесь за телефонами указанными в контактах.  ]]></description>
                 
                                                                                         <param name="Вес">1,21</param>
                                                                                                 <param name="Страна производитель">Украина</param>
@@ -220,7 +245,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12770 А.9825</vendorCode>
-                                <description><![CDATA[  Крестик из золота 585 пробы.    Вес изделия составляет 1,25&amp;nbsp;г.    Золотая цепочка в стоимость товара не входит.    Для уточнения информации, обращайтесь по телефонам указанными в контактах.  ]]></description>
+                                <description><![CDATA[  Крестик из золота 585 пробы.    Вес изделия составляет 1,25г.    Золотая цепочка в стоимость товара не входит.    Для уточнения информации, обращайтесь по телефонам указанными в контактах.  ]]></description>
                 
                                                                                         <param name="Вес">1,25</param>
                                                                                                 <param name="Проба">585</param>
@@ -248,7 +273,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12787 А.9842</vendorCode>
-                                <description><![CDATA[  Крестик из золота 585 пробы.    Вес изделия составляет 1,02 г.    Золотая цепочка в стоимость товара не входит.   &amp;nbsp; ]]></description>
+                                <description><![CDATA[  Крестик из золота 585 пробы. Вес изделия составляет 1,02 г. Золотая цепочка в стоимость товара не входит.]]></description>
                 
                                                                                         <param name="Вес">1,02</param>
                                                                                                 <param name="Проба">585</param>
@@ -313,9 +338,8 @@
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12728 А.9783</vendorCode>
                                 <description><![CDATA[ &amp;nbsp; 
-  Шелковый шнурок черного цвета, с золотым замком 585 пробы.&amp;nbsp;  
-  Вес изделия составляет 1,22 г.  
- &amp;nbsp; ]]></description>
+  Шелковый шнурок черного цвета, с золотым замком 585 пробы.  
+  Вес изделия составляет 1,22 г.]]></description>
                 
                                                                                         <param name="Вес">1.22 (г)</param>
                                                                                                 <param name="Проба">585</param>
@@ -342,9 +366,8 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12722 А.9777</vendorCode>
-                                <description><![CDATA[  Каучуковый шнурок&amp;nbsp; черного цвета, с золотым замком 585 пробы.  
-  Вес изделия составляет 1,22 г.  
- &amp;nbsp; ]]></description>
+                                <description><![CDATA[Каучуковый шнурок черного цвета, с золотым замком 585 пробы.  
+  Вес изделия составляет 1,22 г.]]></description>
                 
                                                                                         <param name="Вес">1.22 (г)</param>
                                                                                                 <param name="Проба">585</param>
@@ -371,9 +394,8 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12734 А.9789</vendorCode>
-                                <description><![CDATA[  Шелковый шнурок&amp;nbsp; черного цвета, с золотым замком 585 пробы.  
-  Вес изделия составляет 1,15 г.  
- &amp;nbsp; ]]></description>
+                                <description><![CDATA[  Шелковый шнурок черного цвета, с золотым замком 585 пробы.  
+  Вес изделия составляет 1,15 г. ]]></description>
                 
                                                                                         <param name="Вес">1.15 (г)</param>
                                                                                                 <param name="Проба">585</param>
@@ -402,7 +424,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12793 А.9848</vendorCode>
-                                <description><![CDATA[  Крестик сделан из золота 585 пробы.    Золотой крестик выполнен в желтом золоте с черной&amp;nbsp;эмалью    Вес изделия составляет 2,44 г.    Шелковый шнурок в стоимость не входит.   &amp;nbsp; ]]></description>
+                                <description><![CDATA[Крестик сделан из золота 585 пробы. Золотой крестик выполнен в желтом золоте с черной эмалью.  Вес изделия составляет 2,44 г. Шелковый шнурок в стоимость не входит.]]></description>
                 
                                                                                         <param name="Вес">2,44</param>
                                                                                                 <param name="Проба">585</param>
@@ -432,10 +454,9 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12749 А.9 804</vendorCode>
-                                <description><![CDATA[  Серьги из золота 585 пробы.  
+                                <description><![CDATA[Серьги из золота 585 пробы.  
   Золотые серьги дополнены вставкой из кубического циркония 0,4г  
-  Вес изделия составляет 2,79 г.  
- &amp;nbsp; ]]></description>
+  Вес изделия составляет 2,79 г.]]></description>
                 
                                                                                         <param name="Вес">2,79</param>
                                                                                                 <param name="Проба">585</param>
@@ -460,7 +481,44 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л13345 А.10391</vendorCode>
-                                <description><![CDATA[  Кольцо из белого золота 585 пробы.    Золотое кольцо украшено вставкой из сапфира и бриллиантов.    Вес изделия составляет 2,74 г.   &amp;nbsp;  &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 6 			 белый 			 3 			 3 			 0.08 			 круг 		 		 			 Сапфир 			 1 			 синий 			 2 			 5 			 1,04 			 маркиз 		 	   ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Кольцо из белого золота 585 пробы.</span></p>
+<p><span style="font-size: 16px;">Золотое кольцо украшено вставкой из сапфира и бриллиантов.</span></p>
+<p><span style="font-size: 16px;">Вес изделия составляет 2,74 г.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>6</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.08</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Сапфир</td>
+<td>1</td>
+<td>синий</td>
+<td>2</td>
+<td>5</td>
+<td>1,04</td>
+<td>маркиз</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант|Сапфир</param>
                                                                                                 <param name="Вес">2,74</param>
@@ -489,7 +547,34 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л12403 А.9645</vendorCode>
-                                <description><![CDATA[  Кольцо из золота 585 пробы.    Золотое кольцо украшено вставкой из бриллиантов.    Вес изделия составляет 5,95 г.   &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 3 			 шампань 			 _ 			 7 			 0.90 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Кольцо из золота 585 пробы.</span></p>
+<p><span style="font-size: 16px;">Золотое кольцо украшено вставкой из бриллиантов.</span></p>
+<p><span style="font-size: 16px;">Вес изделия составляет 5,95 г.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>3</td>
+<td>шампань</td>
+<td>_</td>
+<td>7</td>
+<td>0.90</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">5,95</param>
@@ -519,43 +604,43 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л12841 А. 9896</vendorCode>
-                                <description><![CDATA[  Кольцо из золота 750 пробы.  
-  Золотое кольцо дополнено вставкой из рубина и сапфира.  
-  Вес изделия составляет 7,89 г.  
- &amp;nbsp; 
-  Вставки 
- 
- 
- 
- Камень 
- Количество 
- Цвет вставки 
- Группа цвета 
- Группа чистоты 
- Вес, карат 
- Форма вставки 
- 
- 
- Рубин 
- 1 
- красный 
- 3 
- 3 
- 0.22 
- круг 
- 
- 
- Сапфир 
- 42 
- синий 
- 3 
- 3 
- 0.294 
- круг 
- 
- 
- 
- ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Кольцо из золота 750 пробы.</span></p>
+<p><span style="font-size: 16px;">Золотое кольцо дополнено вставкой из рубина и сапфира.</span></p>
+<p><span style="font-size: 16px;">Вес изделия составляет 7,89 г.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Рубин</td>
+<td>1</td>
+<td>красный</td>
+<td>3</td>
+<td>3</td>
+<td>0.22</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Сапфир</td>
+<td>42</td>
+<td>синий</td>
+<td>3</td>
+<td>3</td>
+<td>0.294</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Рубин|Сапфир</param>
                                                                                                 <param name="Вес">7,89</param>
@@ -585,7 +670,34 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л12838 А. 9893</vendorCode>
-                                <description><![CDATA[  Золотые серьги 750 пробы дополнены вставкой из бриллиантов.    Вес изделия составляет 2,19 г.   &amp;nbsp;   Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  2  белый  3  3  0.026  круг      &amp;nbsp; ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Золотые серьги 750 пробы дополнены вставкой из бриллиантов.</span></p>
+<p><span style="font-size: 16px;">Вес изделия составляет 2,19 г.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.026</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>]]></description>
                 
                                                                                         <param name="Вес">2,19</param>
                                                                                                 <param name="Страна производитель">Украина</param>
@@ -608,7 +720,6 @@
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л11796 А.9038</vendorCode>
                                 <description><![CDATA[<p><span style="font-size: 16px;">Серьги из золота 585 пробы с бриллиантами.Вес изделия составляет 1,55 г.</span></p>
-<p>&nbsp;</p>
 <div class="product-about__description-content text"><strong>Вставки</strong>
 <table class="gold-components-description">
 <tbody>
@@ -654,7 +765,43 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л12415 А.9657</vendorCode>
-                                <description><![CDATA[  Кольцо из золота 585 пробы.    Золотое кольцо украшено вставкой из бриллиантов и аметиста.    Вес изделия составляет 4,24 г.   &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 16 			 белый 			 4 			 4 			 0.064 			 круг 		 		 			 Аметист 			 1 			 фиолетовый 			 _ 			 _ 			 2,64 			 груша 		 	   ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Кольцо из золота 585 пробы.</span></p>
+<p><span style="font-size: 16px;">Золотое кольцо украшено вставкой из бриллиантов и аметиста.</span></p>
+<p><span style="font-size: 16px;">Вес изделия составляет 4,24 г.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>16</td>
+<td>белый</td>
+<td>4</td>
+<td>4</td>
+<td>0.064</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Аметист</td>
+<td>1</td>
+<td>фиолетовый</td>
+<td>_</td>
+<td>_</td>
+<td>2,64</td>
+<td>груша</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант|Аметист</param>
                                                                                                 <param name="Вес">4,24</param>
@@ -684,7 +831,34 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л12386 А. 9628</vendorCode>
-                                <description><![CDATA[  Кольцо из золота 585 пробы.    Золотое кольцо дополнено вставкой из бриллиантов.    Изделие весом 9,52 г.   &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 9 			 белый 			 5 			 6 			 0.52 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Кольцо из золота 585 пробы.</span></p>
+<p><span style="font-size: 16px;">Золотое кольцо дополнено вставкой из бриллиантов.</span></p>
+<p><span style="font-size: 16px;">Изделие весом 9,52 г.</span></p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>9</td>
+<td>белый</td>
+<td>5</td>
+<td>6</td>
+<td>0.52</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">9,52</param>
@@ -714,7 +888,41 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л13343 А.10389</vendorCode>
-                                <description><![CDATA[ Крестик выполнен из золота 585 пробы.Золотой крестик дополнен вставкой из бриллиантов и рубина.Вес изделия составляет 1,88 г.  &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 3 			 3 			 0.084 			 круг 		 		 			 Рубин 			 4 			 красный 			 2 			 2 			 0.14 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p>Крестик выполнен из золота 585 пробы.Золотой крестик дополнен вставкой из бриллиантов и рубина.Вес изделия составляет 1,88 г.</p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.084</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Рубин</td>
+<td>4</td>
+<td>красный</td>
+<td>2</td>
+<td>2</td>
+<td>0.14</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант|Рубин</param>
                                                                                                 <param name="Вес">1,88</param>
@@ -745,7 +953,41 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л11945 А.9187</vendorCode>
-                                <description><![CDATA[  Крестик выполнен из белого золота 585 пробы,  дополнен вставкой из бриллиантов.  Вес изделия составляет 4,88 г.   &amp;nbsp;   table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 70 			 фантазийно красный 			 _ 			 _ 			 0.49 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p>Крестик выполнен из золота 585 пробы.Золотой крестик дополнен вставкой из бриллиантов и рубина.Вес изделия составляет 1,88 г.</p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.084</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Рубин</td>
+<td>4</td>
+<td>красный</td>
+<td>2</td>
+<td>2</td>
+<td>0.14</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">4,88</param>
@@ -777,7 +1019,42 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>л11942 А.9184</vendorCode>
-                                <description><![CDATA[  Подвеска&amp;nbsp; из золота 750 пробы,вставка&amp;nbsp; бриллианты и сапфир.   Производитель&amp;nbsp;CENTURY  &amp;nbsp;   Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  76  белый  5  4  0.44  круг    Сапфир  1  желтый  _  _  2,4  круг     ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 14px;">Подвеска&nbsp; из золота 750 пробы,вставка&nbsp; бриллианты и сапфир.</span></p>
+<p>Производитель&nbsp;CENTURY</p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>76</td>
+<td>белый</td>
+<td>5</td>
+<td>4</td>
+<td>0.44</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Сапфир</td>
+<td>1</td>
+<td>желтый</td>
+<td>_</td>
+<td>_</td>
+<td>2,4</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант|Сапфир</param>
                                                                                                 <param name="Вес">8,36</param>
@@ -807,7 +1084,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12767 А. 9822</vendorCode>
-                                <description><![CDATA[  Кольцо и золота 585 пробы.    Золотое кольцо дополнено вставкой из кубического циркония.   &amp;nbsp; ]]></description>
+                                <description><![CDATA[Кольцо и золота 585 пробы. Золотое кольцо дополнено вставкой из кубического циркония.]]></description>
                 
                                                                                         <param name="Камни вставки">Циркон</param>
                                                                                                 <param name="Вес">1,85</param>
@@ -840,7 +1117,40 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л.10850 А.8105</vendorCode>
-                                <description><![CDATA[  Кольцо с бриллиантами&amp;nbsp;проба 585 вес 4,74    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 3 			 3 			 0.24 			 круг 		 		 			 Бриллиант 			 1 			 белый 			 3 			 3 			 0.098 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 16px;">Кольцо с бриллиантами&nbsp;проба 585 вес 4,74</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.24</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.098</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">4,74</param>
@@ -870,7 +1180,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 11219 А. 8470</vendorCode>
-                                <description><![CDATA[ Подвеска ]]></description>
+                                <description><![CDATA[Подвеска куллн "Малинка" из золота 585 пробы. Вес 1 гр]]></description>
                 
                                                                                         <param name="Камни вставки">Циркон</param>
                                                                                                 <param name="Вес">1</param>
@@ -898,7 +1208,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л10852 А.8 104</vendorCode>
-                                <description><![CDATA[  Золотое кольцо с бриллиантами 585 пробы    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 7 			 белый 			 3 			 3 			 0.11 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 16px;">Золотое кольцо с бриллиантами 585 пробы</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>7</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.11</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">2,3</param>
@@ -928,7 +1262,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л10886 А8 138</vendorCode>
-                                <description><![CDATA[  Золотое кольцо с бриллиантами 585 пробы    Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  1  белый  3  3  0.13  круг     ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 16px;">Золотое кольцо с бриллиантами 585 пробы</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.13</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Вес">2,09</param>
                                                                                                 <param name="Размер кольца">16</param>
@@ -950,7 +1308,40 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л.10853 А.8105</vendorCode>
-                                <description><![CDATA[  Кольцо с бриллиантом и рубином    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 3 			 3 			 0.013 			 круг 		 		 			 Рубин 			 1 			 красный 			 2 			 2 			 0.17 			 маркиз 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 12px;">Кольцо с бриллиантом и рубином</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.013</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Рубин</td>
+<td>1</td>
+<td>красный</td>
+<td>2</td>
+<td>2</td>
+<td>0.17</td>
+<td>маркиз</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант|Рубин</param>
                                                                                                 <param name="Вес">2,19</param>
@@ -1010,7 +1401,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>6135 А.4 838</vendorCode>
-                                <description><![CDATA[Золотое кольцо с бриллиантами в белом золоте.&amp;nbsp;  table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 9 			 белый 			 3 			 3 			 0.12 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p>Золотое кольцо с бриллиантами в белом золоте.&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>9</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.12</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">1,2</param>
@@ -1037,7 +1452,58 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 10455 А.7 738</vendorCode>
-                                <description><![CDATA[ Золотое кольцо с бриллиантом, сапфиром, рубином , изумрудом   Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  1  белый  3  3  0.013  круг    Изумруд  1  зеленый  3  3  0.20  маркиз    Сапфир  1  синий  3  3  0.20  маркиз    Рубин  1  красный  3  3  0.20  маркиз     ]]></description>
+                                <description><![CDATA[<p>Золотое кольцо с бриллиантом, сапфиром, рубином , изумрудом</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.013</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Изумруд</td>
+<td>1</td>
+<td>зеленый</td>
+<td>3</td>
+<td>3</td>
+<td>0.20</td>
+<td>маркиз</td>
+</tr>
+<tr>
+<td>Сапфир</td>
+<td>1</td>
+<td>синий</td>
+<td>3</td>
+<td>3</td>
+<td>0.20</td>
+<td>маркиз</td>
+</tr>
+<tr>
+<td>Рубин</td>
+<td>1</td>
+<td>красный</td>
+<td>3</td>
+<td>3</td>
+<td>0.20</td>
+<td>маркиз</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Сапфир</param>
                                                                                                 <param name="Вес">2,85</param>
@@ -1065,7 +1531,8 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.7630 (л10347)</vendorCode>
-                                <description><![CDATA[ Материал : Золото 585 Вес изделия : 0,84  &amp;nbsp; ]]></description>
+                                <description><![CDATA[Материал : Золото 585
+Вес изделия : 0,84г]]></description>
                 
                                                                                         <param name="Вес">0,84</param>
                                                                                                 <param name="Проба">585</param>
@@ -1092,7 +1559,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.7654 (л10371)</vendorCode>
-                                <description><![CDATA[ Крестик золотой 585 пробы.Вес изделия : 0,64  &amp;nbsp; ]]></description>
+                                <description><![CDATA[ Крестик золотой 585 пробы.Вес изделия : 0,64]]></description>
                 
                                                                                         <param name="Вес">0,64</param>
                                                                                                 <param name="Проба">585</param>
@@ -1119,7 +1586,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.2637 (3916)</vendorCode>
-                                <description><![CDATA[ Ладанка из золота 585 пробы Вес изделия : 1,55&amp;nbsp;г.  &amp;nbsp; ]]></description>
+                                <description><![CDATA[Ладанка из золота 585 пробы Вес изделия : 1,55г]]></description>
                 
                                                                                         <param name="Вес">1,55</param>
                                                                                                 <param name="Цвет металла">Красный</param>
@@ -1144,7 +1611,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>х12786 А.9841</vendorCode>
-                                <description><![CDATA[ Материал : Золото 585 Вес изделия : 3,97  &amp;nbsp; ]]></description>
+                                <description><![CDATA[ Материал : Золото 585 Вес изделия : 3,97]]></description>
                 
                                                                                         <param name="Вес">3,97</param>
                                                                                                 <param name="Проба">585</param>
@@ -1171,7 +1638,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 7454 А.6 276</vendorCode>
-                                <description><![CDATA[Золотое кольцо с бриллиантом в белом золоте  table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 3 			 3 			 0.17 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p>Золотое кольцо с бриллиантом в белом золоте</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.17</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">1,55</param>
@@ -1198,59 +1689,59 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 6937 А.5 768</vendorCode>
-                                <description><![CDATA[ Золотой кулон с бриллиантами в белом золоте. 
- &amp;nbsp; 
-  Вставки 
- 
- 
- 
- Камень 
- Количество 
- Цвет вставки 
- Группа цвета 
- Группа чистоты 
- Вес, карат 
- Форма вставки 
- 
- 
- Бриллиант 
- 65 
- белый 
- 3 
- 3 
- 1,43 
- круг 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 3 
- 4 
- 0.44 
- груша 
- 
- 
- Бриллиант 
- 1 
- фантазийно желтый 
- 3 
- 4 
- 0.18 
- груша 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 4 
- 4 
- 0.32 
- груша 
- 
- 
- 
- ]]></description>
+                                <description><![CDATA[<p>Золотой кулон с бриллиантами в белом золоте.</p>
+<p>&nbsp;</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>65</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>1,43</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.44</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>фантазийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.18</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>4</td>
+<td>4</td>
+<td>0.32</td>
+<td>груша</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">11,46</param>
@@ -1279,60 +1770,58 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л6936 А5. 767</vendorCode>
-                                <description><![CDATA[  Золотое кольцо с бриллиантами в белом золоте  
- &amp;nbsp; 
- &amp;nbsp; 
-  Вставки 
- 
- 
- 
- Камень 
- Количество 
- Цвет вставки 
- Группа цвета 
- Группа чистоты 
- Вес, карат 
- Форма вставки 
- 
- 
- Бриллиант 
- 45 
- белый 
- 3 
- 3 
- 0.99 
- круг 
- 
- 
- Бриллиант 
- 1 
- фантазийно желтый 
- 3 
- 4 
- 0.22 
- груша 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 3 
- 4 
- 0.36 
- груша 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 4 
- 4 
- 0.48 
- груша 
- 
- 
- 
- ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 16px;">Золотое кольцо с бриллиантами в белом золоте</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>45</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.99</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>фантазийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.22</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.36</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>4</td>
+<td>4</td>
+<td>0.48</td>
+<td>груша</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">7,39</param>
@@ -1362,7 +1851,40 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 9928 А. 7 232</vendorCode>
-                                <description><![CDATA[  Золотое кольцо с бриллиантами    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 3 			 2 			 0.16 			 круг 		 		 			 Бриллиант 			 12 			 белый 			 3 			 3 			 0.084 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 14px;">Золотое кольцо с бриллиантами</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>3</td>
+<td>2</td>
+<td>0.16</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>12</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.084</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">3,59</param>
@@ -1389,7 +1911,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 7005 А.5 836</vendorCode>
-                                <description><![CDATA[  Золотое кольцо с бриллиантом    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 1 			 белый 			 4 			 4 			 0.13 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 14px;">Золотое кольцо с бриллиантом</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>1</td>
+<td>белый</td>
+<td>4</td>
+<td>4</td>
+<td>0.13</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">1,42</param>
@@ -1421,7 +1967,49 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 9403 А.6 738</vendorCode>
-                                <description><![CDATA[  Золотое кольцо в белом золоте 585 пробы с бриллиантами    table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 12 			 белый 			 3 			 3 			 0.41 			 круг 		 		 			 Бриллиант 			 30 			 белый 			 3 			 3 			 1,35 			 круг 		 		 			 Бриллиант 			 179 			 белый 			 3 			 3 			 0.89 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<h2><span style="font-size: 14px;">Золотое кольцо в белом золоте 585 пробы с бриллиантами</span></h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>12</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.41</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>30</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>1,35</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>179</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.89</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">14,13</param>
@@ -1449,7 +2037,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>6152 А.4 855</vendorCode>
-                                <description><![CDATA[Золотое кольцо с белого и желтого золота с вставками изумительного коньячного бриллианта.  table.gold-components-description { border: solid black 1px; }            table.gold-components-description tr td { border: solid black 1px; padding: 10px; text-align: center; }   Вставки   	 		 			 Камень 			 Количество 			 Цвет вставки 			 Группа цвета 			 Группа чистоты 			 Вес, карат 			 Форма вставки 		 		 			 Бриллиант 			 28 			 коньячный 			 3 			 3 			 0.45 			 круг 		 	   ]]></description>
+                                <description><![CDATA[<p>Золотое кольцо с белого и желтого золота с вставками изумительного коньячного бриллианта.</p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>28</td>
+<td>коньячный</td>
+<td>3</td>
+<td>3</td>
+<td>0.45</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Камни вставки">Бриллиант</param>
                                                                                                 <param name="Вес">7,62</param>
@@ -1478,58 +2090,58 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 6935 А.5 766</vendorCode>
-                                <description><![CDATA[ Золотые серьги с бриллиантами, белое золото 585 пробы. В наличии комплект кольцо, кулон. 
-  Вставки 
- 
- 
- 
- Камень 
- Количество 
- Цвет вставки 
- Группа цвета 
- Группа чистоты 
- Вес, карат 
- Форма вставки 
- 
- 
- Бриллиант 
- 48 
- белый 
- 3 
- 3 
- 1,056 
- круг 
- 
- 
- Бриллиант 
- 2 
- фантаийно желтый 
- 3 
- 4 
- 0.44 
- груша 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 3 
- 4 
- 0.36 
- груша 
- 
- 
- Бриллиант 
- 2 
- фантазийно желтый 
- 4 
- 4 
- 0.32 
- груша 
- 
- 
- 
- ]]></description>
+                                <description><![CDATA[<h2>Золотые серьги с бриллиантами, белое золото 585 пробы. В наличии комплект кольцо, кулон.</h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>48</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>1,056</td>
+<td>круг</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантаийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.44</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>3</td>
+<td>4</td>
+<td>0.36</td>
+<td>груша</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>2</td>
+<td>фантазийно желтый</td>
+<td>4</td>
+<td>4</td>
+<td>0.32</td>
+<td>груша</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Вес">8,47</param>
                                                                                                 <param name="Цвет металла">Белый</param>
@@ -1552,7 +2164,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 6932 А.5 763</vendorCode>
-                                <description><![CDATA[  Золотые серьги с бриллиантами и жемчугом    Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  14  белый  3  3  0.18  круг     ]]></description>
+                                <description><![CDATA[<p><span style="font-size: 16px;">Золотые серьги с бриллиантами и жемчугом</span></p>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>14</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.18</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Вес">5,09</param>
                                                                                                 <param name="Цвет металла">Белый</param>
@@ -1580,7 +2216,31 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>Л 7456 А.6 278</vendorCode>
-                                <description><![CDATA[ Золотые &amp;nbsp;серьги 750 пробы с бриллиантами.   Вставки     Камень  Количество  Цвет вставки  Группа цвета  Группа чистоты  Вес, карат  Форма вставки    Бриллиант  18  белый  3  3  0.18  круг     ]]></description>
+                                <description><![CDATA[<h2>Золотые &nbsp;серьги 750 пробы с бриллиантами.</h2>
+<div class="product-about__description-content text"><strong>Вставки</strong>
+<table class="gold-components-description">
+<tbody>
+<tr>
+<td>Камень</td>
+<td>Количество</td>
+<td>Цвет вставки</td>
+<td>Группа цвета</td>
+<td>Группа чистоты</td>
+<td>Вес, карат</td>
+<td>Форма вставки</td>
+</tr>
+<tr>
+<td>Бриллиант</td>
+<td>18</td>
+<td>белый</td>
+<td>3</td>
+<td>3</td>
+<td>0.18</td>
+<td>круг</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
                 
                                                                                         <param name="Вес">2,61</param>
                                                                                                 <param name="Страна производитель">Украина</param>
@@ -1602,7 +2262,10 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.2643(3922)</vendorCode>
-                                <description><![CDATA[    Материал : Золото 585 Вес изделия : 2,74 Названия вставки : куб. цирконий Вес вставки : 0,19  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  ]]></description>
+                                <description><![CDATA[Материал : Золото 585
+Вес изделия : 2,74
+Названия вставки : куб. цирконий
+Вес вставки : 0,19]]></description>
                 
                                                                                         <param name="Вес">2,74</param>
                                                                                                 <param name="Страна производитель">Украина</param>
@@ -1626,7 +2289,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.3723(4997)</vendorCode>
-                                <description><![CDATA[  Материал : Золото 585 Вес изделия : 1,04 Названия вставки : куб. цирконий Вес вставки : 0,34  &amp;nbsp;      &amp;nbsp;  ]]></description>
+                                <description><![CDATA[  Материал : Золото 585 Вес изделия : 1,04 Названия вставки : куб. цирконий Вес вставки : 0,34 ]]></description>
                 
                                                                                         <param name="Камни вставки">Фианит</param>
                                                                                                 <param name="Вес">1,04</param>
@@ -1651,7 +2314,7 @@
                 
                                     <vendor>СЮВ</vendor>
                                                     <vendorCode>А.3722(4996)</vendorCode>
-                                <description><![CDATA[    Материал : Золото 585 Вес изделия : 0,62 Названия вставки : куб. цирконий Вес вставки : 0,03  &amp;nbsp;  &amp;nbsp;  &amp;nbsp;  ]]></description>
+                                <description><![CDATA[    Материал : Золото 585 Вес изделия : 0,62 Названия вставки : куб. цирконий Вес вставки : 0,03]]></description>
                 
                                                                                         <param name="Камни вставки">Фианит</param>
                                                                                                 <param name="Вес">0,62</param>
