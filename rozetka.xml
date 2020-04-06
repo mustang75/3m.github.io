@@ -196,6 +196,7 @@
                 
                                                                                         <param name="Вес">1,21</param>
                                                                                                 <param name="Страна производитель">Украина</param>
+                                                                                                <param name="Вид">Серьги-Конго</param>
                                                                             
             </offer>
                                 <offer id="45" available="true">
@@ -701,6 +702,7 @@
                 
                                                                                         <param name="Вес">2,19</param>
                                                                                                 <param name="Страна производитель">Украина</param>
+                                                                                                <param name="Вставки">Бриллиант</param>
                                                                             
             </offer>
                                 <offer id="32" available="true">
@@ -747,6 +749,7 @@
                 
                                                                                         <param name="Вес">1,55</param>
                                                                                                 <param name="Страна производитель">Украина</param>
+                                                                                                <param name="Вставки">Бриллиант</param>
                                                                             
             </offer>
                                 <offer id="31" available="true">
@@ -2146,6 +2149,8 @@
                                                                                         <param name="Вес">8,47</param>
                                                                                                 <param name="Цвет металла">Белый</param>
                                                                                                 <param name="Страна производитель">Украина</param>
+                                                                                                <param name="Камень">Бриллиант</param>
+
                                                                             
             </offer>
                                 <offer id="5" available="true">
@@ -2245,6 +2250,7 @@
                                                                                         <param name="Вес">2,61</param>
                                                                                                 <param name="Страна производитель">Украина</param>
                                                                                                 <param name="Ширина(мм)">14</param>
+                                                                                                <param name="Металл">Золото 750 пробы</param>
                                                                             
             </offer>
                                 <offer id="3" available="true">
