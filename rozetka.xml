@@ -197,6 +197,9 @@
                                                                                         <param name="Вес">1,21</param>
                                                                                                 <param name="Страна производитель">Украина</param>
                                                                                                 <param name="Вид">Серьги-Конго</param>
+                                                                                                <param name="Проба">585</param>
+                                                                                                <param name="Вес">1,21г.</param>
+
                                                                             
             </offer>
                                 <offer id="45" available="true">
@@ -703,6 +706,7 @@
                                                                                         <param name="Вес">2,19</param>
                                                                                                 <param name="Страна производитель">Украина</param>
                                                                                                 <param name="Вставки">Бриллиант</param>
+                                                                                                <param name="Количество камней">2</param>
                                                                             
             </offer>
                                 <offer id="32" available="true">
@@ -750,6 +754,7 @@
                                                                                         <param name="Вес">1,55</param>
                                                                                                 <param name="Страна производитель">Украина</param>
                                                                                                 <param name="Вставки">Бриллиант</param>
+                                                                                                <param name="Количество камней">2</param>
                                                                             
             </offer>
                                 <offer id="31" available="true">
@@ -1294,6 +1299,7 @@
                                                                                         <param name="Вес">2,09</param>
                                                                                                 <param name="Размер кольца">16</param>
                                                                                                 <param name="Страна производитель">Украина</param>
+                                                                                                <param name="Проба">585</param>
                                                                             
             </offer>
                                 <offer id="21" available="true">
